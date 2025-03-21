@@ -1,3 +1,8 @@
+## 0.0.3
+
+### Added APIs
+* Added support for **Android SDK 35** to ensure compatibility with the latest Android versions.
+
 ## 0.0.2
 
 ### Added APIs

@@ -1,6 +1,6 @@
 name: wallpaper_handler
 description: Flutter package for easy wallpaper customization on Android devices – change Home Screen, Lock Screen, or both with simplicity.
-version: 0.0.2
+version: 0.0.3
 homepage: https://www.sahkari.tech
 repository: https://github.com/sahkari/wallpaper_handler
 issue_tracker: https://github.com/sahkari/wallpaper_handler/issues
@@ -25,3 +25,14 @@ flutter:
       android:
         package: com.example.wallpaper_handler
         pluginClass: WallpaperHandlerPlugin
+
+topics:
+  - wallpaper-handler
+  - wallpaper
+  - wallpaper-change
+  - wallpaper-set
+  - home-screen
+  - lock-screen
+  - flutter-wallpaper
+  - wallpaper-app
+  - android-wallpaper
